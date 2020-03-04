@@ -1,0 +1,139 @@
+body{
+	margin: 0;
+	font-family: 'Poppins';
+	font-weight: 600;
+	letter-spacing: 1px;
+}
+span{
+	font-size: 35px;
+	font-weight: 600;
+	font-family: 'Roboto'; 
+	margin: 2%;
+}
+.half-part h1{
+	font-family: 'Spartan';
+	font-size: 45px;
+	color: #f70a52;
+	margin: 2%;
+	letter-spacing: 1px;
+
+}
+a{
+	text-decoration: none;
+	color: white;
+	background-image: linear-gradient(45deg,#FF69B4,#e91d63ff) ;
+	border-radius: 3px;
+	padding: 10px 45px;
+	margin-left: 2%;
+}
+p{
+	color:gray;
+	margin-top: 7%;
+	margin-left: 2%;
+	margin-bottom: 7%;
+}
+.half-part{
+	width: 45%;	
+	float: left;
+}
+.half-part img{
+	width: 100%;
+	padding-top: 10%;
+	padding-left: 0%; 
+	margin: 0%;
+}
+.first-section{
+	background-image: url("images/header-bg.png");
+	background-repeat: no-repeat;
+	background-position: left;
+	background-size: 1300px 1000px ;
+}
+section{
+	padding-bottom: 130px;
+	height: 600px;
+}
+.half-part.text{
+	padding-top: 15%;
+	padding-left: 5%;
+	margin-left: 2%;
+	}
+.second-section{
+	background-image: url("images/biography-bg.png");
+	background-repeat: no-repeat;
+	background-position: left;
+}
+.third-section h1{
+	font-size: 38px;
+	font-weight: 600;
+	font-family: 'Roboto'; 
+	margin: 2%;
+	text-align: center;
+	padding-top: 4%;
+	padding-bottom: 2%;
+}
+.work-images{
+	float: left;
+	width: 25%;
+	margin-left: 6%;
+}
+.work-images img{
+	width: 100%;
+}
+.third-section{
+	background-image: url("images/latest-work-bg.png");
+	background-repeat: no-repeat;
+	background-position: top;
+	background-size: 100% 500px; 
+	height: 300px;
+}
+footer{
+	color: gray;
+	text-align: center;
+	margin: 0;
+}
+.fourth-section{
+	text-align: center;
+	background-image: url("images/footer-bg.png");
+	background-repeat: no-repeat;
+	background-position: center top;
+	background-size: 80% 500px;
+	height: 500px; 
+}
+.last-part-1 h4{
+	margin-bottom: 1px;
+}
+.last-part-1 h6{
+	margin: 0;
+	color: gray;
+	padding-bottom: 0;
+}
+
+#leave-msg{
+	font-size: 12px;
+}
+.email-link{
+	text-decoration: none;
+	color: white;
+	background-image: linear-gradient(45deg,#FF69B4,#FF1493) ;
+	border-radius: 5px;
+	padding: 20px 100px;
+	display: inline-block;
+}
+.fourth-section span{
+	color: white;
+	font-size: 12px;
+	font-family: 'Roboto';
+}
+.last-part-1 h1{
+	font-size: 30px;
+}
+.last-part-1{
+	margin: 0;
+}
+.last-part-2{
+	margin: 0;
+}
+#black-p{
+	color:black;
+	font-size: 18px;
+}
